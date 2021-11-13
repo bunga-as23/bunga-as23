@@ -1,0 +1,5 @@
+- 👋 Hi, Saya Bunga Adinda Sari
+- 👀 Saya belajar web programming
+- 🌱 Saya mempelajari Laravel
+- 💞️ Saya bersekolah di SMKN 8 JEMBER
+- 📫 Saya tinggal di Desa Sidomulyo, Kec.Semboro, Kab.Jember
